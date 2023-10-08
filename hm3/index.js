@@ -1,3 +1,4 @@
 let hours = prompt('Введіть кількість годин');
-let secondsResult = hours * 3600;
-alert('Секунди: ' + secondsResult);
+let seconds = 3600;
+let Result = hours * 3600;
+alert('Секунди: ' + Result);
